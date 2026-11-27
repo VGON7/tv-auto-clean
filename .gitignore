@@ -1,0 +1,19 @@
+# Build outputs
+build/
+dist/
+*.idsig
+*.apk
+!release/TV-Auto-Clean-v1.2.1.apk
+
+# Signing material: never commit
+keystore/
+*.jks
+*.keystore
+
+# Local/tooling
+.DS_Store
+.gradle/
+local.properties
+*.log
+.idea/
+.vscode/

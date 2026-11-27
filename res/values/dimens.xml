@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_pad_h">52dp</dimen>
+    <dimen name="screen_pad_v">24dp</dimen>
+    <dimen name="card_radius">20dp</dimen>
+    <dimen name="card_pad">24dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="button_radius">16dp</dimen>
+    <dimen name="row_height">66dp</dimen>
+</resources>
